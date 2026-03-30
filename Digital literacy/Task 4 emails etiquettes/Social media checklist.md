@@ -1,4 +1,4 @@
-Social Media Use Checklist
+# Social Media Use Checklist
 
 ## Do’s
 - Use strong passwords and enable two-factor authentication  
